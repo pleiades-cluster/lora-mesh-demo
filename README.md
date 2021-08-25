@@ -13,21 +13,7 @@ _Bronco Space Lead Engineer_
 
 _Bronco Space SoW Leader_
 
-1. **INTRODUCTION**
-
-| General Details |
-| --- |
-| **Project Name** | Eta Tauri |
-| **Project Lead** | Megan Beck (Bronco Space - mcbeck@cpp.edu) |
-| **Period of Performance** | July 19th - August 19 2021 |
-| **Overall Purpose** | Eta Tauri seeks to create a physical test bed for proposed satellite LoRa mesh networks, as a development project under the Pleiades CubeSat Cluster program.
-The primary objective of Eta Tarui is to create a platform that shall enable terrestrial field testing of situational awareness and distributed sensing within a simulated spacecraft mesh network. |
-| **Sponsor** | Michael Pham (Bronco Space - mlpham@cpp.edu) |
-| **Budget Constraints** | Floor: | $ 500 |
-| Target: | $ 1000 |
-| Ceiling: | $ 5000 |
-
-_ **Pleiades Cluster Background:** _
+**Pleiades Cluster Background:** 
 
 _The Pleiades CubeSat Cluster concept is a proposed investigation of methods to establish relative navigation and in space situational awareness for Small Satellite Swarms. As an extended concept, the methods tested by the Pleiades Cluster may also assist in the creation of space based collision avoidance and proximity operations systems to keep the orbits of Earth safe from runaway orbital debris. Additionally, as a multi-university collaboration using open source platforms, this mission acts as a wide scale opportunity to engage university students and establish pathways for student payloads to make their way to space._
 
