@@ -1,4 +1,4 @@
-# loraMeshDemo
+# lora-mesh-demo
 This repository is tracks the creation of a demonstration LoRa Mesh Network using hardware and software based on Adafruit's Feather M0 with the RFM95 radio modules operating at 915Mhz. This effort is currently led of engineers from CPP's Bronco Space group.
 
 # Statement of Work
